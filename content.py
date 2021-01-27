@@ -1,7 +1,7 @@
 startText = [
-    ['', '', 'ATTENTION!', ''],
+    ['', '', 'ATTENTION!', 'OH NO!', 'ERROR!', 'Bad news.'],
     ['afternoon.', 'midday.', 'morning.', 'Good afternoon.', 'Good midday.', 'Good morning.', 'Hello.', 'Hi.', ''],
-    ['Respected', 'Dear', '', 'Reputable', ],
+    ['Respected', 'Dear', '', 'Reputable'],
     ['User', 'Users', 'Customer', '', 'Customers', 'Olga', 'Sergey', 'Oleg', 'Client', 'Oleksey', 'Oleksandr', 'Olena','Maksim', 'Katerina', 'Danilo', 'Elizaveta'],
     ['.']
 ]
@@ -14,8 +14,9 @@ middleText = [
         ['activity', 'action', 'activities', 'actions','trouble','troubles', 'mistake', 'mistakes'],
         ['on your bank account', 'on your account', 'with your card', 'with your acct'],
         ['.'],
-        ['Unfortunately, but we', 'We', 'For safe we', 'For some time we', 'Thinking about you, we', 'For safe card is '],
-        ['blocked ', 'closed', 'frozen', 'stopped'],
+        ['Unfortunately, but we', 'We', 'For safe we', 'For some time we', 'Thinking about you, we', 'For your safe we', 'Apologise, but we'],
+        ['blocked', 'closed', 'frozen', 'stopped'],
+        ['your', ''],
         ['card', 'account', 'bank`s account', 'bank`s card'],
         ['.']
     ]
