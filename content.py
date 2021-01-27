@@ -8,9 +8,9 @@ startText = [
 
 middleText = [
     [
-        ['We catch', 'We caught', 'There are', 'We see', ],
+        ['We catch', 'We caught', 'There are', 'We see', 'We detected'],
         ['some', 'that someone does', 'someone, hwo tries to do', 'that Alex Colins tryes to do', 'that Nick Forch does'],
-        ['unusual', 'ungeneral', 'interesting for us', 'not tipical', ''],
+        ['unusual', 'ungeneral', 'interesting for us', 'not tipical', '', 'fraudulent'],
         ['activity', 'action', 'activities', 'actions','trouble','troubles', 'mistake', 'mistakes'],
         ['on your bank account', 'on your account', 'with your card', 'with your acct'],
         ['.'],
@@ -31,7 +31,7 @@ middleText = [
          'On your account was sent 1523 USD.',
          'On your account was sent 1924 USD.',
          'You got a 14k point in our draw, and now can chose your prize!',
-         'Did you get your money? There are some money on your seccond account'],
+         'Did you get your money? There are some money on your seccond account!'],
         ['Propose deal untill:','Take untill:','Available untill:','Can be token untill:'],
         ['saturday 23 19:00', '23.02 19:00', '15:00', '14:00', '21.3 14:00', '3 day', '3 day from tooday']
     ]

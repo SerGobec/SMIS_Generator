@@ -33,6 +33,5 @@ def generateSMS():
     return text
 
 
-for i in range(10):
-    print('\t---')
-    print(generateSMS())
+for i in range(300):
+    print('SMIS ' + generateSMS())

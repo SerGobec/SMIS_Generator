@@ -5,3 +5,5 @@
 #For getting SMS just start main.py
 
 #Result will be in console
+
+#Made by SerGObec
